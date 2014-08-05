@@ -1,0 +1,4 @@
+* project
+* asset
+* slide
+* movie
