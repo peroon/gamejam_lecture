@@ -3,4 +3,4 @@
 * slide
 * movie
 
-DL : http://bit.ly/jam2525
+DL (10MB): http://bit.ly/jam2525
